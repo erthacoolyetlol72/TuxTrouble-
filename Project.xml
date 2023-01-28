@@ -99,8 +99,6 @@
 	<assets path='example_mods' rename='mods' embed='false'/>
 	<assets path='tuxArt/readme.txt' rename='do NOT readme.txt' unless="web"/>
 	<assets path="CHANGELOG.md" rename='tux_changelog.txt' unless="web"/>
-	<assets path='LICENSE' rename='LICENSE.txt' />
-	<assets path="LICENSE_openfl-haxeflixel-video-code" rename='LICENSE_openfl-haxeflixel-video-code.txt'/>
 	<!-- <template path='mods' /> -->
 
 	<!-- <assets path="CHANGELOG.md" rename='changelog.txt'/> -->
