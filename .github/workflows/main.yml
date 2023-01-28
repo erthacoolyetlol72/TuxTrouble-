@@ -55,6 +55,7 @@ jobs:
           haxelib --quiet install hscript
           haxelib --quiet install newgrounds
           haxelib --quiet git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools.git
+          haxelib --quiet git actuate https://github.com/openfl/actuate
           haxelib list
 
       - name: Configure Android
