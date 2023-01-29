@@ -55,7 +55,7 @@ jobs:
           haxelib --quiet install hscript
           haxelib --quiet install newgrounds
           haxelib --quiet git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools.git
-          haxelib --quiet git polymod https://github.com/MasterEric/polymod
+          haxelib --quiet git polymod https://github.com/larsiusprime/polymod
           haxelib --quiet git extension-webm https://github.com/HaxeExtension/extension-webm
           haxelib --quiet git actuate https://github.com/openfl/actuate
           haxelib list
